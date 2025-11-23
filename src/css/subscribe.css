@@ -60,7 +60,7 @@
     color: #7F1C1C;
     font-size: 12px;
     left: 0px;
-    bottom: -18px;
+    bottom: -10px;
 
     visibility: hidden;
     opacity: 0;
@@ -110,7 +110,7 @@
     background-color: #6F4E37;
     box-shadow: none;
     opacity: 1;
-    /* transition: opacity 200ms ease-in; */
+    transition: opacity 200ms ease-in;
 }
 
 .subscr-svg {
