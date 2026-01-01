@@ -167,6 +167,9 @@
     .wrap-text-block {
         flex: 1;
     }
+  .error-text {
+        bottom: -10px;
+    }
     .text-block {
         width: 100%;
     }
